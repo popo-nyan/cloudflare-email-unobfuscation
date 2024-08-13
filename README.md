@@ -1,6 +1,6 @@
 # Cloudflare Email Unobfuscation
 
-Obfuscated email addresses can be converted without the use of browsers or JavaScript.
+Converts obfuscated email addresses to their original form without the use of a browser.
 
 ```bash
 python main.py
