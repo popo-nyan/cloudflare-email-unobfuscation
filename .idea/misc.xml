@@ -3,7 +3,7 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.11" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (cloudflare-email-unobfuscation)" project-jdk-type="Python SDK" />
   <component name="PyDebuggerOptionsProvider">
     <option name="mySaveCallSignatures" value="true" />
     <option name="mySupportGeventDebugging" value="true" />
