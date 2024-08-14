@@ -1,5 +1,5 @@
 def r(e: str, t: int) -> str:
-    r = e[t:2 + t]
+    r = e[t : 2 + t]
     return int(r, 16)
 
 
@@ -13,7 +13,7 @@ def n(n: str, c: int) -> str:
 
 
 def main():
-    obfuscated_email_address = "c7a6a6beb2b4af87a6b2b5a8b5a6a8b4b4e9a4a8aa"
+    obfuscated_email_address = "531032213f3c207d1b3c3f3426362132133c243220237d3c2134"
     email_address = n(obfuscated_email_address, 0)
     print(email_address)
 
