@@ -10,4 +10,4 @@ https://developers.cloudflare.com/waf/tools/scrape-shield/email-address-obfuscat
 
 # Contact
 
-- Matrix: [@kounomiya-cat:matrix.org](https://matrix.to/#/@kounomiya-cat:matrix.org)
+- Email [kounomiya@tuta.io](mailto:kounomiya@tuta.io)
