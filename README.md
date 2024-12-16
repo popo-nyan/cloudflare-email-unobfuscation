@@ -10,4 +10,5 @@ https://developers.cloudflare.com/waf/tools/scrape-shield/email-address-obfuscat
 
 # Contact
 
+- Discord: popo.nyan
 - Email [kounomiya@tuta.io](mailto:kounomiya@tuta.io)
